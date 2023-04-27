@@ -1,1 +1,1 @@
-### Hi, I'm Nurik <img src = "https://media4.giphy.com/media/iJQDeXvfJ5TnSgMiRU/giphy.gif?cid=ecf05e47hmh214vanyx0t11mvr98rp2ydiqna8kchrbgzwdf&ep=v1_gifs_search&rid=giphy.gif&ct=g" width = "100px" >
+### Hi, I'm Nurik <img src = "[https://media4.giphy.com/media/iJQDeXvfJ5TnSgMiRU/giphy.gif?cid=ecf05e47hmh214vanyx0t11mvr98rp2ydiqna8kchrbgzwdf&ep=v1_gifs_search&rid=giphy.gif&ct=g](https://media1.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif?cid=ecf05e47hpzvz9m1m6m0hv34gilhau0u24tnsazyyq2wyaea&ep=v1_gifs_search&rid=giphy.gif&ct=g)" width = "100px" >
