@@ -1,4 +1,7 @@
-### *<div align="center">I'm Nurik "XVII" 🐺 a web developer with a passion for creating beautiful, functional, and user-centered digital experiences. Hard study and smart work thats me. I strongly believe that one day I will be the best in this field.</div>*  
+### *<div align="center"><h2>CIAO 👋 I'm Nurik "XVII" 🐺 </h2></div>*  
+
+### *<div align="center"><p> Web developer with a passion for creating beautiful, functional, and user-centered digital experiences. Hard study and smart work thats me. I strongly believe that one day I will be the best in this field. </h2></p>* 
+
   
 
 - 🔭 Check out [My Personal Portfolio](https://the17sun.vercel.app)  
